@@ -12,7 +12,7 @@ android {
     defaultConfig {
         applicationId = "org.gradle.samples"
         minSdkVersion(16)
-        targetSdkVersion(30)
+        targetSdkVersion(34)
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
