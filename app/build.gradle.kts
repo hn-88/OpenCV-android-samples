@@ -8,7 +8,7 @@ repositories {
 }
 
 android {
-    compileSdkVersion(30)
+    compileSdkVersion(34)
     defaultConfig {
         applicationId = "org.gradle.samples"
         minSdkVersion(16)
